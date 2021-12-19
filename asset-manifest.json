@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Match-Numbers-with-Words-React-app/static/js/main.b818728c.chunk.js",
+    "main.js.map": "/Match-Numbers-with-Words-React-app/static/js/main.b818728c.chunk.js.map",
+    "runtime-main.js": "/Match-Numbers-with-Words-React-app/static/js/runtime-main.a5bb4ef3.js",
+    "runtime-main.js.map": "/Match-Numbers-with-Words-React-app/static/js/runtime-main.a5bb4ef3.js.map",
+    "static/js/2.441eb4cd.chunk.js": "/Match-Numbers-with-Words-React-app/static/js/2.441eb4cd.chunk.js",
+    "static/js/2.441eb4cd.chunk.js.map": "/Match-Numbers-with-Words-React-app/static/js/2.441eb4cd.chunk.js.map",
+    "index.html": "/Match-Numbers-with-Words-React-app/index.html",
+    "static/js/2.441eb4cd.chunk.js.LICENSE.txt": "/Match-Numbers-with-Words-React-app/static/js/2.441eb4cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5bb4ef3.js",
+    "static/js/2.441eb4cd.chunk.js",
+    "static/js/main.b818728c.chunk.js"
+  ]
+}

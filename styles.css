@@ -1,0 +1,79 @@
+body, h1, p{
+    margin: 0;
+}
+
+h1{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: calc(5rem + 1.2vw);
+    margin-bottom: 0;
+}
+
+.customCard{
+    width: calc(6rem + 1.2vw);
+    height: calc(8.5rem + 1.2vh);
+    padding: 4rem;
+}
+
+.customCard:before{
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: 1px;
+    width: calc(6rem + 1.2vw);
+    height: calc(8.5rem + 1.2vh);
+    border: 1px solid #dee2e6;
+    border-width: 3px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    transform: rotate(8deg);
+    padding: 4rem;
+}
+
+.optionsStyle{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: calc(1.2rem + 1.2vw);
+    letter-spacing: 0.5rem;
+    border: 1px solid #dee2e6;
+    border-width: 3px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+.optionsStyle:hover{
+    background-color: #ffc107;
+    cursor: pointer;
+}
+
+.modal-screen{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, .4); 
+    /* opacity: 0.5; "using rgba over opacity lets its children elements not transparent"*/
+    z-index: 2;
+}
+
+.modal-card{
+    font-family: 'Fredericka the Great', cursive;
+    color: #ffc107;
+    width: calc(60% + 1.2vw);
+    height: calc(60% + 1.2vh);
+    border-radius: 12px;
+    opacity: 1;
+    z-index: 5;
+}
+h3{
+    font-size: calc(3rem + 1.2vw);
+}
+
+i{
+    font-size: 2rem;
+    color: #ffc107;
+}
+
+.hintUnderScoreHeading{
+    font-family: 'Fredericka the Great', cursive;
+    letter-spacing: 0.5rem;
+    
+}
+
+p{
+    font-family: 'Fredericka the Great', cursive;
+}
